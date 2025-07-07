@@ -1,8 +1,5 @@
-# Ethical-Hacking-Lecture
-An overview of the basics of ethical hacking
-<br/>
 <p align="center">
-<img src="https://see.fontimg.com/api/rf5/KerX/NGYzY2M5Y2NmMjI1NDc3NDhmNzY5MTBlNDZiZDUxMmIudHRm/RXRoaWNhbCBIYWNraW5n/hacked.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&s=65" width="50%">
+<img src="https://see.fontimg.com/api/rf5/KerX/NGYzY2M5Y2NmMjI1NDc3NDhmNzY5MTBlNDZiZDUxMmIudHRm/RXRoaWNhbCBIYWNraW5n/hacked.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" width="50%">
 </p>
 <br/>
 <p align="center">

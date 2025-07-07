@@ -9,3 +9,8 @@
 <p align="center">
 <h3 align="center"><a href="https://github.com/ec-coding/Ethical-Hacking-Lecture/blob/main/Ethical%20Hacking%20Lecture%20.pdf" target="_blank" rel="noreferrer">Slides</a></h3>
 </p>
+
+## Lessons Learned:
+  - Differences between white-hat, gray-hat, and black-hat hackers
+  - Benefits of ethical hacking and how it strengthens the foundations of cybersecurity
+  - Various forms of attacks used by different hacker types

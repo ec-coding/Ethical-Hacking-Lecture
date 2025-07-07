@@ -3,7 +3,7 @@
 </p>
 <br/>
 <p align="center">
-<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Chart.png" width="">
+<img src="https://i.imgur.com/xkiv9fF.png" width="">
 </p>
 <h2 align="center">An Overview of the Basics of Ethical Hacking and Penetration Testing</h2>
 <p align="center">

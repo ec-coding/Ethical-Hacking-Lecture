@@ -11,6 +11,6 @@
 </p>
 
 ## Lessons Learned:
-  - Differences between white-hat, gray-hat, and black-hat hackers
-  - Benefits of ethical hacking and how it strengthens the foundations of cybersecurity
-  - Various forms of attacks used by different hacker types
+- Differences between white-hat, gray-hat, and black-hat hackers
+- Benefits of ethical hacking and how it strengthens the foundations of cybersecurity
+- Various forms of attacks used by different hacker types
